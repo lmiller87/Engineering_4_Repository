@@ -16,8 +16,8 @@ I enjoyed this porject because i got to spend time searching the internet for di
 
 ## Calculator
 
-![Screen Shot 2020-11-18 at 10 12 14 AM](https://user-images.githubusercontent.com/54447117/99548592-d15fb900-2986-11eb-9ec0-89d21c6c0d91.png)
-![Screen Shot 2020-11-18 at 10 12 47 AM](https://user-images.githubusercontent.com/54447117/99548626-d91f5d80-2986-11eb-862e-cad30c58e75f.png)
+![Screen Shot 2020-11-18 at 10 20 26 AM](https://user-images.githubusercontent.com/54447117/99549574-cc4f3980-2987-11eb-90b5-d05e45715e2b.png)
+![Screen Shot 2020-11-18 at 10 20 46 AM](https://user-images.githubusercontent.com/54447117/99549632-dcffaf80-2987-11eb-8200-ffe5484810ce.png)
 
 ### Reflection
 This project took me a long time to perfect. I tried to take a few ideas I saw online and put them together. It essentially has 2 different input sections, one asking if you want to add,subtract,multiply or divide, and the next asking for the two numbers that you want to do this with. It then does what ever you chose to those two numbers and outputs them. The most difficult part was linking the different types of math to the numbers themselves because it originally just added everytime. But that was about the only problem. 
