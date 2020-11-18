@@ -19,6 +19,11 @@ I enjoyed this porject because i got to spend time searching the internet for di
 ![Screen Shot 2020-11-18 at 10 20 26 AM](https://user-images.githubusercontent.com/54447117/99549574-cc4f3980-2987-11eb-90b5-d05e45715e2b.png)
 ![Screen Shot 2020-11-18 at 10 20 46 AM](https://user-images.githubusercontent.com/54447117/99549632-dcffaf80-2987-11eb-8200-ffe5484810ce.png)
 
+### Comments that I didnt put into my code:
+#The entire first half of this code, is literally just setting up the different types of math the calculator uses(Add,Sub,Mult,Div)
+#Lines 11-15 are the input function, that ask what math you want to use in the output. 
+#The while statement is establishing what the function will do once you select an option.
+#Lines 23-35 are establishing what each math system does (ex Add = x + y, Div = x/y, etc.) This also puts out an input for you to choose which numbers you want to us, because you cant use x and y.
 ### Reflection
 This project took me a long time to perfect. I tried to take a few ideas I saw online and put them together. It essentially has 2 different input sections, one asking if you want to add,subtract,multiply or divide, and the next asking for the two numbers that you want to do this with. It then does what ever you chose to those two numbers and outputs them. The most difficult part was linking the different types of math to the numbers themselves because it originally just added everytime. But that was about the only problem. 
 
