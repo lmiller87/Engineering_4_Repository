@@ -1,5 +1,11 @@
 # Engineering_4_Repository
 
+##Strings and Loops
+
+![Screen Shot 2020-11-18 at 10 04 28 AM](https://user-images.githubusercontent.com/54447117/99547455-8ee9ac80-2985-11eb-82a6-ca1e817c1e4d.png)
+
+I made this code somewhat quickly, I also looked around the internet to help me with this project, and it actually came out better than I expected. You essentially just in the initiallizing string, you put in what you want to output, and it creates a vertical string of the letters in the word. Unfortunately my Raspberry pi has kind of been 60-40 and it usually doesnt let me connect to the internet, I had to find an online Python code system, which worked well as a temperary fix to my problem, but im looking into the pi so I can push this assignment to my repo. 
+
 ## Quadratic Solver
 
 ![Screen Shot 2020-11-18 at 9 52 28 AM](https://user-images.githubusercontent.com/54447117/99545915-da9b5680-2983-11eb-85d5-40244cf35354.png)
