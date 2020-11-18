@@ -1,5 +1,10 @@
 # Engineering_4_Repository
 
+## Quadratic Solver
+
+![Screen Shot 2020-11-18 at 9 52 28 AM](https://user-images.githubusercontent.com/54447117/99545915-da9b5680-2983-11eb-85d5-40244cf35354.png)
+
+I enjoyed this porject because i got to spend time searching the internet for different ways people did it. I found this one on the interent that helped me create a simple input Quadratic Solver. I basically just have to put in values and if they factor out it gives me roots, and if the numbers arent nice, it displays no real numbers in the equation. 
 ## Dice Roller
 
 ![Screenshot 2020-11-04 at 1 12 45 PM](https://user-images.githubusercontent.com/54447117/98152380-a3b34400-1e9f-11eb-8707-5db74a5e6b42.png)
