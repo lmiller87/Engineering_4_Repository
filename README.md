@@ -1,5 +1,18 @@
 # Engineering_4_Repository
 
+## Hangman 
+
+![hangman](https://user-images.githubusercontent.com/54447117/102117841-d5a7b680-3e0c-11eb-80c3-fd8e6c851896.PNG)
+
+--This is an image of the majority of the important part of the code. This basically just sets out the rules of the game and the right guesses and wrong guesses. The second half of the code is just printing out the visual "human pinata". 
+
+### 
+Didnt really know how to do this code so I looked up someone elses code and tweeked it a bit to my liking, however without the help I would have gotten no where so thank you to the person who wrote the original. 
+
+
+
+
+
 ## Strings and Loops
 
 ![Screen Shot 2020-11-18 at 10 04 28 AM](https://user-images.githubusercontent.com/54447117/99547455-8ee9ac80-2985-11eb-82a6-ca1e817c1e4d.png)
