@@ -1,4 +1,4 @@
-'''python
+```python
 gpio mode 1 out
 gpio mode 0 out
 for (( c=0; c<=9; c++ ))
