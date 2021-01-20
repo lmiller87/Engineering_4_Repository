@@ -1,0 +1,7 @@
+test_str = 'hello/there/world'
+print ("Original string : " + str(test_str))
+res = ' '
+for ele in test_str:
+      res += ele + "\n"
+
+print ("Converted string is : " + str(res))
