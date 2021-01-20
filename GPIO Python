@@ -5,6 +5,6 @@ GPIO.setmode(GPIO.BOARD)
 GPIO.setup(8, GPIO.OUT, initial=GPIO.LOW) 
 for x in range(10):   
  GPIO.output(8, GPIO.HIGH) 
- sleep(1) # Sleep for 1 second
+ sleep(1) 
  GPIO.output(8, GPIO.LOW) 
- sleep(1) # Sleep for 1 second
+ sleep(1)
