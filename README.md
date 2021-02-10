@@ -62,3 +62,6 @@ def hello_world():
 if __name__ == "__main__":
      app.run(host="0.0.0.0", port=80)
 ```
+
+### Reflection 
+I had a little but of trouble with this assignment because I was having trouble getting my pi to connect to the internet at my house, luckily Philip helped me fix the problem and I was able to get this working. 
