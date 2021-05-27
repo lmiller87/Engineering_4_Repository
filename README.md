@@ -148,3 +148,4 @@ while True:
 
 
 ### Reflection 
+Still fun but it took me a while to get my pi working as usual.
