@@ -153,24 +153,8 @@ Still fun but it took me a while to get my pi working as usual.
 ## Copypasta2
 
 
-import time
-import picamera
-frame = 1
+![python](https://user-images.githubusercontent.com/54447117/121379292-e0518d00-c911-11eb-9176-f2f5722c1987.PNG)
 
-with picamera.PiCamera() as camera:
-	camera.resolution = (1024, 768)
-	while True:
-		i = str(input("Click enter: "))
-		try:
-			if i == "":
-				camera.capture('/home/pi/Documents/Engineering_4_Notebook/Pictures/animation/frame%03d.jpg' % frame)
-				frame += 1
-			elif i == "x":
-				camera.stop_preview()
-				break
-		except KeyboardInterrupt:
-			camera.stop_preview()
-			break
 
 
 
